@@ -1,6 +1,7 @@
 .header {
   display: flex;
   justify-content: space-between;
+  padding-bottom: 30px;
 }
 
 .header .header__title {
