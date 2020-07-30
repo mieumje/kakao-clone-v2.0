@@ -1,5 +1,5 @@
 @import "reset.css";
-
+@import "status-bar.css";
 body {
   background-color: white;
   padding: 10px 20px;
