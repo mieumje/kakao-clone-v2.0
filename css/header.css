@@ -6,5 +6,9 @@
 
 .header .header__title {
   font-size: 24px;
-  font-weight: 700;
+  font-weight: 600;
+}
+
+.header .header__icon {
+  font-size: 20px;
 }
