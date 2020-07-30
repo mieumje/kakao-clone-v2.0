@@ -3,3 +3,7 @@
   justify-content: space-between;
   margin-bottom: 30px;
 }
+
+.stastus-bar i {
+  font-size: 14px;
+}
