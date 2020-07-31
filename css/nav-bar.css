@@ -1,4 +1,7 @@
 .nav {
   position: fixed;
   width: 100%;
+  padding: 20px 50px;
+  left: 0px;
+  bottom: 0px;
 }
