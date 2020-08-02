@@ -27,3 +27,7 @@
   display: block;
   margin-bottom: 10px;
 }
+.friend__content .friend__status,
+.friend__content .friend__bottom-text {
+  opacity: 0.6;
+}
