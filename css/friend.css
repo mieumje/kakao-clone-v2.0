@@ -40,3 +40,7 @@
   /* only use in friend*/
   font-size: 12px;
 }
+.friend .chat__timestamp {
+  font-size: 12px;
+  opacity: 0.6;
+}
