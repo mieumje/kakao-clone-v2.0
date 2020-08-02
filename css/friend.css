@@ -36,3 +36,7 @@
   /* only use in chats*/
   font-size: 14px;
 }
+.friend__content .friend__status {
+  /* only use in friend*/
+  font-size: 12px;
+}
