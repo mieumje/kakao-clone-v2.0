@@ -23,3 +23,6 @@
 .friend .friend__avatar {
   margin-right: 15px;
 }
+.friend__content .friend__name {
+  display: block;
+}
