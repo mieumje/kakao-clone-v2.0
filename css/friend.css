@@ -15,3 +15,8 @@
 .friend__avatar.m-avatar {
   width: 60px;
 }
+
+.friend .friend__column {
+  display: flex;
+  align-items: center;
+}
