@@ -31,3 +31,8 @@
 .friend__content .friend__bottom-text {
   opacity: 0.6;
 }
+
+.friend__content .friend__bottom-text {
+  /* only use in chats*/
+  font-size: 14px;
+}
