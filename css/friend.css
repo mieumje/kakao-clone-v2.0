@@ -45,3 +45,8 @@
   font-size: 12px;
   opacity: 0.6;
 }
+.friend .friend__now-listening {
+  background-color: red;
+  padding: 5px 10px;
+  border-radius: 20px;
+}
