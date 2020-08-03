@@ -1,6 +1,12 @@
 .find .find__header-list {
   display: flex;
+  justify-content: space-between;
 }
 .find .header-btn__title {
   display: block;
+}
+.find .header-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
