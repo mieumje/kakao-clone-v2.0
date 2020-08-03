@@ -1,3 +1,6 @@
-.find {
-  background-color: red;
+.find .find__header-list {
+  display: flex;
+}
+.find .header-btn__title {
+  display: block;
 }
