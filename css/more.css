@@ -31,3 +31,12 @@
   font-size: 12px;
   margin-top: 15px;
 }
+
+.suggestion .suggestions__icon {
+  background-color: #fce006;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
