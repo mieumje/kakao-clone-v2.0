@@ -20,3 +20,8 @@
   border-top: 1px solid #f7f7f7;
   padding-top: 20px;
 }
+.more .more__title {
+  font-size: 14px;
+  opacity: 0.6;
+  margin-bottom: 20px;
+}
