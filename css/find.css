@@ -24,3 +24,8 @@
   padding-top: 15px;
   border-top: 1px solid #f7f7f7;
 }
+.find .find__title {
+  font-size: 12px;
+  opacity: 0.6;
+  margin-bottom: 20px;
+}
