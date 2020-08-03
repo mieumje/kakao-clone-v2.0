@@ -19,3 +19,8 @@
 .find .header-btn__icon {
   font-size: 12px;
 }
+.find .find__recommended {
+  margin-top: 20px;
+  padding-top: 15px;
+  border-top: 1px solid #f7f7f7;
+}
