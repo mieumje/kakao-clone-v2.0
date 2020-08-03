@@ -10,3 +10,8 @@
   flex-direction: column;
   align-items: center;
 }
+
+.find .header-btn__title {
+  margin-top: 10px;
+  font-size: 14px;
+}
