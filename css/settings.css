@@ -1,2 +1,7 @@
 .settings {
+  border-top: 1px solid #f7f7f7;
+}
+
+.settings .settings__sections {
+  padding-top: 30px;
 }
