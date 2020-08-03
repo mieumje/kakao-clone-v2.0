@@ -7,3 +7,16 @@
   font-size: 20px;
   margin-right: 20px;
 }
+
+.settings__setting .settings__title {
+  font-size: 22px;
+  /* font-weight: 400; */
+}
+
+.settings .settings__setting {
+  margin-bottom: 30px;
+}
+
+.settings .settings__setting:last-child {
+  margin-bottom: 0;
+}
